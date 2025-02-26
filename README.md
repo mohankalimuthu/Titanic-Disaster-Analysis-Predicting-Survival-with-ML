@@ -1,0 +1,2 @@
+# Titanic-Disaster-Analysis-Predicting-Survival-with-ML
+Welcome to my Github repository. This is my another new project is Titanic Survival Prediction – Machine Learning from Scratch This project focuses on predicting passenger survival from the Titanic dataset using machine learning techniques. The model is trained with 240 epochs, achieving a training accuracy of 0.8638 and a test accuracy of 0.8212. 
